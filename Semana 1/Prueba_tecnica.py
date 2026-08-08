@@ -1,4 +1,3 @@
-
 def pnc(n):
         
         if n > 0: print("El número es positivo")
